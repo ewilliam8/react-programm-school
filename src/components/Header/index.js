@@ -13,7 +13,7 @@ function Header(props) {
         </Link>
       </div>
       <ul className="d-flex">
-        <Link to="/oreder">
+        <Link to="/order">
           <li className="mr-15">
             <span>Записаться</span>
           </li>

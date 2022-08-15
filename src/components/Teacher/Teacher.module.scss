@@ -1,0 +1,19 @@
+.Teacher {
+    width: 289px;
+    height: 671px;
+    background-color: #FBFBFD;
+    border-radius: 45px;
+    box-shadow: 7px 14px 27px rgba(0, 0, 0, 0.1);
+
+    img {
+        width: 289px;
+        height: 289px;
+        border-radius: 45px 45px 0 0;
+    }
+
+    p {
+        margin: 20px 20px 30px 40px;
+
+        font-size: 12px;
+    }
+}

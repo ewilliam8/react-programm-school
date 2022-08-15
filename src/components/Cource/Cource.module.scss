@@ -1,3 +1,90 @@
-.Cource {
-    width: 100px;
+.CourceLeft {
+    width: 100%;
+    height: 573px;
+    background-color: #FBFBFD;
+    border-radius: 100px;
+
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.CourceRight {
+    width: 100%;
+    height: 573px;
+    background-color: #FBFBFD;
+    border-radius: 100px;
+
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.bannerLeft {
+    width: 45%;
+    height: 100%;
+
+    img {
+        border-radius: 100px 0 0 100px;
+    }
+}
+
+.bannerRight {
+    width: 45%;
+    height: 100%;
+
+    img {
+        margin-left: 6%;
+        border-radius: 0 100px 100px 0;
+    }
+}
+
+.infoLeft {
+    width: 445px;
+    margin-left: 8%;
+    margin-top: 59px;
+
+    h1 {
+        margin: 0;
+        font-size: 40px;
+        font-weight: 500;
+        color: #5DB43B;
+    }
+
+    h2 {
+        margin: 0;
+        font-size: 40px;
+        font-weight: 500;
+        color: #272729;
+    }
+
+    p {
+        width: 350px;
+        font-size: 20px;
+        color: #6F6F6F;
+    }
+}
+
+.infoRight {
+    width: 445px;
+    margin-left: 8%;
+    margin-top: 59px;
+
+    h1 {
+        margin: 0;
+        font-size: 40px;
+        font-weight: 500;
+        color: #5DB43B;
+    }
+
+    h2 {
+        margin: 0;
+        font-size: 40px;
+        font-weight: 500;
+        color: #272729;
+    }
+
+    p {
+        width: 350px;
+        font-size: 20px;
+        color: #6F6F6F;
+    }
 }
